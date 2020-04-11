@@ -4,4 +4,5 @@
 # Information
 
 # FAQ
-* Contact Information: 
+* **Contact Information:** abuzo_nicole@columbusstate.edu
+* **Demo Link:** 
