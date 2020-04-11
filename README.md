@@ -1,5 +1,5 @@
 # *Title*
-* The importance of Symmetric Cyrptography.
+The importance of Symmetric Cyrptography.
 
 ## *Subtitle*
 * In this project, I am going to demonstrate the following symmetric encryption techniques: Caesar Cipher and the Avalanche Effect of AES. 
