@@ -1,4 +1,4 @@
-# *Title*
+# *Project Title*
 The importance of Symmetric Cyrptography.
 
 ## *Subtitle*
