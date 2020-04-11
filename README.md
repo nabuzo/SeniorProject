@@ -1,7 +1,7 @@
-#Title
-#Subtitle
-#Usage
-#Information
+# Title
+# Subtitle
+# Usage
+# Information
 
-#FAQ
+# FAQ
 * Contact Information: 
