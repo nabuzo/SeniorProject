@@ -1,10 +1,10 @@
-# * *Title* *
+# *Title*
 What it the importance of Symmetric Cyrptography?
 
-# Subtitle
-# Usage
-# Information
+# *Subtitle*
+# *Usage*
+# *Information*
 
-# FAQ
+# *FAQ*
 * **Contact Information:** abuzo_nicole@columbusstate.edu
 * **Demo Link:** 
