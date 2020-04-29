@@ -1,10 +1,6 @@
-# *Project Title*
-The importance of Symmetric Cyrptography.
-
-## *Subtitle*
+# *The importance of Symmetric Cyrptography.*
 * In this project, I am going to demonstrate the following symmetric encryption techniques: Caesar Cipher and the Avalanche Effect of AES. 
 * The following techniques will illustrate the use of symmetric cryptography and understand its own flaws.
-
 
 ## *Usage*
 ## *Information*
