@@ -12,11 +12,13 @@
 *Shift Cipher*
 
 Before anything else, make sure you compile the program by typing **_"javac filename.java"_**. If not working, you may need to install JDK.
-![ss4](https://user-images.githubusercontent.com/60201371/81634330-5e242b80-93d4-11ea-87be-1ca0b33771c3.PNG)
-* To encrypt a text file, type the following command:
-![ss5](https://user-images.githubusercontent.com/60201371/81634332-5ebcc200-93d4-11ea-89e9-bf858b676da6.PNG)
-* To decrypt a text file, type the following command:
 ![ss3](https://user-images.githubusercontent.com/60201371/81634333-5ebcc200-93d4-11ea-9124-5c3ac9fe9536.PNG)
+
+* To encrypt a text file, type the following command:
+![ss4](https://user-images.githubusercontent.com/60201371/81634330-5e242b80-93d4-11ea-87be-1ca0b33771c3.PNG)
+
+* To decrypt a text file, type the following command:
+![ss5](https://user-images.githubusercontent.com/60201371/81634332-5ebcc200-93d4-11ea-89e9-bf858b676da6.PNG)
 
 
 *Avalanche Effect*
