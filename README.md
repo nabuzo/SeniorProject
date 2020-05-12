@@ -9,6 +9,7 @@
 ![ss1](https://user-images.githubusercontent.com/60201371/81632825-ce30b280-93d0-11ea-82e3-93aa6f5d1a75.PNG)
 ![ss2](https://user-images.githubusercontent.com/60201371/81632903-fe785100-93d0-11ea-877a-0923a0f80e13.PNG)
 
+
 *Shift Cipher*
 
 Before anything else, make sure you compile the program by typing **_"javac filename.java"_**. If not working, you may need to install JDK.
@@ -30,6 +31,7 @@ Before anything else, make sure you compile the program by typing **_"javac file
   - _"decryptoutput.txt"_ this is the encrypted file. Your encrypted file can be named anything on the command prompt.
 
 * All the text files must be in the same folder as the code. You should be able to find all the text file and the generated output text file in the same folder. 
+
 
 *Avalanche Effect*
 
