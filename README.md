@@ -13,7 +13,7 @@
 
 *Shift Cipher*
 
-Before anything else, make sure you can compile the program by typing **_"javac filename.java"_**. If not working, you may need to install JDK.
+Before anything else, make sure you can compile the program by typing **_"javac filename.java"_**. If not working, you may need to install JDK. Visit: https://www.oracle.com/java/technologies/javase-downloads.html
 
 ![ss3](https://user-images.githubusercontent.com/60201371/81634333-5ebcc200-93d4-11ea-9124-5c3ac9fe9536.PNG)
 
