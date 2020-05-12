@@ -6,8 +6,9 @@
 *Installation*
 * Download the following code: **_ShiftCipher.zip_** & **_AvalancheEffect.zip_** and extract it. Once extraction is complete, copy the address of the folder where it's stored. 
 * Open the command prompt, type _"cd"_ and paste the address. Your system will have a different naming prompt but be sure to be in those specific folders.
-![ss1](https://user-images.githubusercontent.com/60201371/81632825-ce30b280-93d0-11ea-82e3-93aa6f5d1a75.PNG)
 ![ss2](https://user-images.githubusercontent.com/60201371/81632903-fe785100-93d0-11ea-877a-0923a0f80e13.PNG)
+![ss1](https://user-images.githubusercontent.com/60201371/81632825-ce30b280-93d0-11ea-82e3-93aa6f5d1a75.PNG)
+
 
 
 *Shift Cipher*
