@@ -17,14 +17,17 @@ Before anything else, make sure you compile the program by typing **_"javac file
 
 * To encrypt a text file, type the following command:
 ![ss4](https://user-images.githubusercontent.com/60201371/81634330-5e242b80-93d4-11ea-87be-1ca0b33771c3.PNG)
-  - "-e" indicates encryption; 
-  - "encryptinput.txt" is the file you want to encrypt. MUST BE ALL IN UPPERCASE LETTERS. You can name your file in any name you are comfortable with
-  - "4" is the key on how many shifts you want it to be.
-  - "encryptoutput.txt" this is the encrypted file. Your encrypted file can be named anything on the command prompt.
+  - _"-e"_ indicates encryption.
+  - _"encryptinput.txt"_ is the file you want to encrypt. **MUST BE ALL IN UPPERCASE LETTERS**. You can name your file in any name you are comfortable with
+  - _"4"_ is the key on how many shifts you want it to be.
+  - _"encryptoutput.txt"_ this is the encrypted file. Your encrypted file can be named anything on the command prompt.
 
 * To decrypt a text file, type the following command:
 ![ss5](https://user-images.githubusercontent.com/60201371/81634332-5ebcc200-93d4-11ea-89e9-bf858b676da6.PNG)
-  - "-d" indicates decryption; 
+  - _"-d"_ indicates decryption.
+  - _"decryptinput.txt"_ is the file you want to encrypt. **MUST BE ALL IN UPPERCASE LETTERS**. You can name your file in any name you are comfortable with
+  - _"5"_ is the key on how many shifts you want it to be.
+  - _"decryptoutput.txt"_ this is the encrypted file. Your encrypted file can be named anything on the command prompt.
 
 
 *Avalanche Effect*
