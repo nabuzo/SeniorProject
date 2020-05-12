@@ -4,9 +4,8 @@
 
 ## *Usage*
 ## *Information*
-* Why Cryptography is important for security?
-
-"Cryptography is the science of secret writing with the goal of hiding the meaning of a message" (Understanding Cyrptography, 3). This technique allows people to have confidence in sending important information in the electronic world.
+Why Cryptography is important for security?
+* "Cryptography is the science of secret writing with the goal of hiding the meaning of a message" (Understanding Cyrptography, 3). This technique allows people to have confidence in sending important information in the electronic world.
 
 
 ## *FAQ*
