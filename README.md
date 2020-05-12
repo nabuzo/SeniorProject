@@ -29,6 +29,7 @@ Before anything else, make sure you compile the program by typing **_"javac file
   - _"5"_ is the key on how many shifts you want it to be.
   - _"decryptoutput.txt"_ this is the encrypted file. Your encrypted file can be named anything on the command prompt.
 
+* All the text files must be in the same folder as the code. You should be able to find all the text file and the generated output text file in the same folder. 
 
 *Avalanche Effect*
 
