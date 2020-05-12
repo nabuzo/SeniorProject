@@ -29,7 +29,7 @@ Before anything else, make sure you can compile the program by typing **_"javac 
   - _"-d"_ indicates decryption.
   - _"decryptinput.txt"_ is the file you want to encrypt. **MUST BE ALL IN UPPERCASE LETTERS**. You can name your file in any name you are comfortable with
   - _"5"_ is the key on how many shifts you want it to be.
-  - _"decryptoutput.txt"_ this is the encrypted file. Your encrypted file can be named anything on the command prompt.
+  - _"decryptoutput.txt"_ this is the encrypted file. Your decrypted file can be named anything on the command prompt.
 
 * All the text files must be in the same folder as the code. You should be able to find all the text file and the generated output text file in the same folder. 
 
