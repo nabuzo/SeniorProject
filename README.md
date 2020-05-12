@@ -53,7 +53,7 @@ Cyrptography itself is split into three main branches: Symmetric Algorithms, Asy
 *Avalanche Effect of AES*
 * AES is the most widely used symmetric cipher today. It has a block cipher with 128-bit block size and supported three key lengths: 128, 192, and 56 bit. My program shows avalanche effect which is calculated by changing one bit in plaintext and keeping the key the same. It improves the level of security by changing one bit in encryption. Avalanche effect creates a combination of confusion and diffusion to enhance the security level. And this is what I would like to illustrate in my code.
 
-![ss7](https://user-images.githubusercontent.com/60201371/81724264-b1849100-9449-11ea-836a-d9e29bb942eb.PNG)
+  ![ss7](https://user-images.githubusercontent.com/60201371/81724264-b1849100-9449-11ea-836a-d9e29bb942eb.PNG)
 * This chart is to visualize if there are any "weak" indexes for filipping a bit in a plaintext. The average number of bits flipped is 64.758. This shows that AES Block Cipher maintains its avalanche effect for any bit flipped in the plaintext and that there is not index of bit that results in a number of flipped bits signaficantly below the goal of 64 flipped bits. 
 
 *How does Symmetric Algorthim improved throughout the year and how it influenced our current crypto systems?*
