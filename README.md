@@ -37,6 +37,8 @@ Before anything else, make sure you compile the program by typing **_"javac file
 
 Before anything else, make sure you compile the program by typing **_"javac filename.java"_**. If not working, you may need to install JDK.
 
+![ss6](https://user-images.githubusercontent.com/60201371/81635309-8dd43300-93d6-11ea-827e-9a8677fb7154.PNG)
+
 ## Information
 *Why Cryptography is important for security?*
 * "Cryptography is the science of secret writing with the goal of hiding the meaning of a message" (Understanding Cyrptography, 3). This technique allows people to have confidence in sending important information in the electronic world.
