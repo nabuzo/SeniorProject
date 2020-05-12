@@ -17,10 +17,14 @@ Before anything else, make sure you compile the program by typing **_"javac file
 
 * To encrypt a text file, type the following command:
 ![ss4](https://user-images.githubusercontent.com/60201371/81634330-5e242b80-93d4-11ea-87be-1ca0b33771c3.PNG)
-  - "-e" indicates encryption
+  - "-e" indicates encryption; 
+  - "encryptinput.txt" is the file you want to encrypt. MUST BE ALL IN UPPERCASE LETTERS. You can name your file in any name you are comfortable with
+  - "4" is the key on how many shifts you want it to be.
+  - "encryptoutput.txt" this is the encrypted file. Your encrypted file can be named anything on the command prompt.
 
 * To decrypt a text file, type the following command:
 ![ss5](https://user-images.githubusercontent.com/60201371/81634332-5ebcc200-93d4-11ea-89e9-bf858b676da6.PNG)
+  - "-d" indicates decryption; 
 
 
 *Avalanche Effect*
