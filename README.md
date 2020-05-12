@@ -10,8 +10,10 @@
 ![ss2](https://user-images.githubusercontent.com/60201371/81632903-fe785100-93d0-11ea-877a-0923a0f80e13.PNG)
 
 *Shift Cipher*
+Before anything else, make sure you compile the program by typing **_"javac filename.java"_**. If not working, you may need to install JDK.
 
 *Avalanche Effect*
+Before anything else, make sure you compile the program by typing **_"javac filename.java"_**. If not working, you may need to install JDK.
 
 ## Information
 *Why Cryptography is important for security?*
