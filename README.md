@@ -3,7 +3,8 @@
 * The following techniques will illustrate the use of symmetric cryptography.
 
 ## Usage
-Download the following code: **_ShiftCipher.zip_** & **_AvalancheEffect.zip_**
+*Installation*
+* Download the following code: **_ShiftCipher.zip_** & **_AvalancheEffect.zip_**
 
 
 ## Information
