@@ -12,6 +12,7 @@
 *Shift Cipher*
 
 Before anything else, make sure you compile the program by typing **_"javac filename.java"_**. If not working, you may need to install JDK.
+
 ![ss3](https://user-images.githubusercontent.com/60201371/81634333-5ebcc200-93d4-11ea-9124-5c3ac9fe9536.PNG)
 
 * To encrypt a text file, type the following command:
