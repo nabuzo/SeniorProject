@@ -9,6 +9,10 @@
 ![ss1](https://user-images.githubusercontent.com/60201371/81632825-ce30b280-93d0-11ea-82e3-93aa6f5d1a75.PNG)
 ![ss2](https://user-images.githubusercontent.com/60201371/81632903-fe785100-93d0-11ea-877a-0923a0f80e13.PNG)
 
+*Shift Cipher*
+
+*Avalanche Effect*
+
 ## Information
 *Why Cryptography is important for security?*
 * "Cryptography is the science of secret writing with the goal of hiding the meaning of a message" (Understanding Cyrptography, 3). This technique allows people to have confidence in sending important information in the electronic world.
