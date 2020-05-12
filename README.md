@@ -39,6 +39,13 @@ Before anything else, make sure you can compile the program by typing **_"javac 
 
 ![ss6](https://user-images.githubusercontent.com/60201371/81635309-8dd43300-93d6-11ea-827e-9a8677fb7154.PNG)
 
+* To run the program, type the following command:
+![ss8](https://user-images.githubusercontent.com/60201371/81725171-0e347b80-944b-11ea-9721-561b2f153691.PNG)
+  - _"-c"_ indiates compare.
+  - _"keypair.txt"_ is the text file that I used to compare the key and its plaintext
+  - _"output.txt"_ is the output file. The output can be named anything on the command prompt. It basically shows the same output on the command prompt but in more neat way.
+* The output generated a Ciphertext from the key & the plaintext. It will flipped the bit from 0 to 127, inclusively. Each flipped bit generates a new plaintext and new ciphertext, and it will shows the number of bits that's been flipped from the original plaintext & ciphertext.
+
 ## Information
 *Why Cryptography is important for security?*
 * "Cryptography is the science of secret writing with the goal of hiding the meaning of a message" (Understanding Cyrptography, 3). This technique allows people to have confidence in sending important information in the electronic world.
