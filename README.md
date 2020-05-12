@@ -4,6 +4,7 @@
 
 ## Usage
 *Installation*
+* Ensure to have an application where you can run JAVA code, preferably in _BlueJ._
 * Download the following code: **_ShiftCipher.zip_** & **_AvalancheEffect.zip_** and extract it. Once extraction is complete, copy the address of the folder where it's stored. 
 * Open the command prompt, type _"cd"_ and paste the address. Your system will have a different naming prompt but be sure to be in those specific folders.
 ![ss2](https://user-images.githubusercontent.com/60201371/81632903-fe785100-93d0-11ea-877a-0923a0f80e13.PNG)
