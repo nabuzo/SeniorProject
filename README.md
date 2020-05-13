@@ -47,7 +47,7 @@ Before anything else, make sure you can compile the program by typing **_"javac 
   - _"keypair.txt"_ is the text file that I used to compare the key and its plaintext
   - _"output.txt"_ is the output file. The output can be named anything on the command prompt. It basically shows the same output on the command prompt but in a more organized way.
   
-* The output generated a Ciphertext from the key & the plaintext. It will flipped the bit from 0 to 127, inclusively. Each flipped bit generates a new plaintext and new ciphertext, and it will shows the number of bits that's been flipped from the original plaintext & ciphertext.
+* The output generated a Ciphertext from the key & the plaintext. It will flip the bit from 0 to 127, inclusively. Each flipped bit generates a new plaintext and ciphertext, and it will shows the number of bits that's been flipped from the original plaintext & ciphertext.
 
 ## Information
 *Why Cryptography is important for security?*
