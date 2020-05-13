@@ -69,7 +69,7 @@ Cyrptography itself is split into three main branches: Symmetric Algorithms, Asy
 *How does Symmetric Algorthim improved throughout the year and how it influenced our current crypto systems?*
 * Symmetric Algorithm is being improved continuously every year. It is commonly used to share information between a smaller number of people; however, it's major disadvantage is transmitting the key used to encrypt and decrypt data. When keys are shared over an unsecured network, it becomes vulnerable to being intercepted by malicious third parties. This is why researchers created asymmetric encryption using public and private keys. A public key is available to everyone and is used to send an encrypted message. The owner who possesses the private key can decrypt a message that he/she received.
 
-*Note:* All types of computer encryption are subject to vulnerabilities. Eventhough Symmetric encryption has its own flaws, it still remain a critical component of modern computer security. 
+*Note:* All types of computer encryption are subject to vulnerabilities. Even though Symmetric encryption has its flaws, it still remains a critical component of modern computer security. 
 
 
 ## FAQ
