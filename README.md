@@ -28,7 +28,7 @@ Before anything else, make sure you can compile the program by typing **_"javac 
 * To decrypt a text file, type the following command:
 ![ss5](https://user-images.githubusercontent.com/60201371/81634332-5ebcc200-93d4-11ea-89e9-bf858b676da6.PNG)
   - _"-d"_ indicates decryption.
-  - _"decryptinput.txt"_ is the file you want to encrypt. **MUST BE ALL IN UPPERCASE LETTERS**. You can create your own decryption file inside the program folder.
+  - _"decryptinput.txt"_ is the file you want to decrypt. **MUST BE ALL IN UPPERCASE LETTERS**. You can create your own decryption file inside the program folder.
   - _"5"_ is the key on how many shifts you want it to be.
   - _"decryptoutput.txt"_ this is the decrypted file. Your decrypted file can be named anything on the command prompt.
 
