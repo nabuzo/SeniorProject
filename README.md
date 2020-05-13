@@ -21,14 +21,14 @@ Before anything else, make sure you can compile the program by typing **_"javac 
 * To encrypt a text file, type the following command:
 ![ss4](https://user-images.githubusercontent.com/60201371/81634330-5e242b80-93d4-11ea-87be-1ca0b33771c3.PNG)
   - _"-e"_ indicates encryption.
-  - _"encryptinput.txt"_ is the file you want to encrypt. **MUST BE ALL IN UPPERCASE LETTERS**. You can create your own encryption file.
+  - _"encryptinput.txt"_ is the file you want to encrypt. **MUST BE ALL IN UPPERCASE LETTERS**. You can create your own encryption file inside the program folder.
   - _"4"_ is the key on how many shifts it going to be. You may pick between 1-26, because alphabet has 26 letters.
   - _"encryptoutput.txt"_ this is the encrypted file. Your encrypted file can be named anything on the command prompt.
 
 * To decrypt a text file, type the following command:
 ![ss5](https://user-images.githubusercontent.com/60201371/81634332-5ebcc200-93d4-11ea-89e9-bf858b676da6.PNG)
   - _"-d"_ indicates decryption.
-  - _"decryptinput.txt"_ is the file you want to encrypt. **MUST BE ALL IN UPPERCASE LETTERS**. You can create your own decryption file.
+  - _"decryptinput.txt"_ is the file you want to encrypt. **MUST BE ALL IN UPPERCASE LETTERS**. You can create your own decryption file inside the program folder.
   - _"5"_ is the key on how many shifts you want it to be.
   - _"decryptoutput.txt"_ this is the decrypted file. Your decrypted file can be named anything on the command prompt.
 
